@@ -1,3 +1,66 @@
 {
-  "placeholderImages": []
+  "hero": {
+    "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+    "imageHint": "abstract code"
+  },
+  "founder": {
+    "imageUrl": "https://picsum.photos/seed/founder/400/400",
+    "imageHint": "professional man"
+  },
+  "portfolio": [
+    {
+      "id": "proj1",
+      "imageUrl": "https://picsum.photos/seed/proj1/600/400",
+      "imageHint": "web application"
+    },
+    {
+      "id": "proj2",
+      "imageUrl": "https://picsum.photos/seed/proj2/600/400",
+      "imageHint": "mobile app"
+    },
+    {
+      "id": "proj3",
+      "imageUrl": "https://picsum.photos/seed/proj3/600/400",
+      "imageHint": "ai dashboard"
+    },
+    {
+      "id": "proj4",
+      "imageUrl": "https://picsum.photos/seed/proj4/600/400",
+      "imageHint": "enterprise software"
+    }
+  ],
+  "blog": [
+    {
+      "id": "blog1",
+      "imageUrl": "https://picsum.photos/seed/blog1/600/400",
+      "imageHint": "tech trends"
+    },
+    {
+      "id": "blog2",
+      "imageUrl": "https://picsum.photos/seed/blog2/600/400",
+      "imageHint": "cybersecurity lock"
+    },
+    {
+      "id": "blog3",
+      "imageUrl": "https://picsum.photos/seed/blog3/600/400",
+      "imageHint": "ai robot"
+    }
+  ],
+  "avatars": [
+    {
+      "id": "avatar1",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "man face"
+    },
+    {
+      "id": "avatar2",
+      "imageUrl": "https://picsum.photos/seed/avatar2/100/100",
+      "imageHint": "woman face"
+    },
+    {
+      "id": "avatar3",
+      "imageUrl": "https://picsum.photos/seed/avatar3/100/100",
+      "imageHint": "person smiling"
+    }
+  ]
 }
